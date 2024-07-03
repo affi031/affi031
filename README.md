@@ -1,19 +1,3 @@
-so today I bought this keyboard from amazon at rs 549 it arroved during wedsssv        github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20478
-Fork on GitHub
-6282
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Afnan Shaikh</h1>
 <h3 align="center">A passionate Computer Science student with a strong interest in AI, Machine Learning, Web Development, and Cybersecurity. Currently in my final year, I'm always eager to explore new technologies and solve challenging problems.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
